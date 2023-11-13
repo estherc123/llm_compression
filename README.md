@@ -1,1 +1,1 @@
-# llm_compression
+A simple script to compression large language models
